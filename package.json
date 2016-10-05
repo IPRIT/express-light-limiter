@@ -1,6 +1,6 @@
 {
   "name": "express-light-limiter",
-  "version": "1.0.5",
+  "version": "1.0.1",
   "description": "Express light-weight middleware for rate-limiting",
   "main": "index.js",
   "scripts": {
