@@ -1,6 +1,6 @@
 # express-light-limiter [![NPM version][npm-image]][npm-url] [![dependencies Status][depstat-image]][depstat-url] [![devDependencies Status Status][deVdepstat-image]][deVdepstat-url]
 
-Smart express light-weight middleware for rate-limiting based on Zones to prevent memory-leaks
+Smart express lightweight middleware for rate-limiting based on Zones to prevent memory leaks
 
 
 
